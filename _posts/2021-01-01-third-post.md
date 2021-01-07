@@ -1,5 +1,5 @@
 ---
-title: "Programmers"
+title: "백준"
 date: 2021-01-01 08:26:28 -0400
 categories: jekyll update
 ---

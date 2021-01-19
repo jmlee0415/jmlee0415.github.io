@@ -69,6 +69,85 @@ $.ajax({
 
     ```
 
+## 어떻게 동작?
+    - 함수를 콜백으로 다른 함수의 인자처럼 사용할 경우 오직 함수의 정의만을 넘겨주면 된다. 
+
+    ```javascript
+    setInterval(callback, 1000)
+    ```
+
+    ```javascript
+    $("#btn_1").click(function() {
+         alert("Btn 1 Clicked"); 
+    });
+    ```
+
+## 원칙
+    1. 이름이나 익명의 함수를 사용
+
+    function(<매개변수1>, <매개변수2>,...)
+    {
+        코드...
+    }
+
+    - ※ 선언적 함수 
+    function <function name>(<매개변수1>,<매개변수2>,...){
+        코드...
+    }
+    2.콜백함수로 파라매터 전달
+
+```javascript
+//전역변수 
+var generalLastName = "Clinton"; 
+function getInput (options, callback) { 
+    allUserData.push (options); // 전역변수를 콜백함수의 인자로 전달한다. 
+    callback (generalLastName, options);
+ }
+```
+    3. 콜백함수가 실행되기 전에 함수임을 명확하게 하기 
+```javascript
+//전역변수 
+var generalLastName = "Clinton"; 
+function getInput (options, callback) { 
+    allUserData.push (options); 
+    // 전역변수를 콜백함수의 인자로 전달한다. 
+    callback (generalLastName, options);
+     }
+
+```
+    4. this를 사용한 메서드를 콜백으로 사용시 문제
+```javascript
+var clientData = { 
+    id: 094545, 
+    fullName: "Not Set",
+    // setUserName clientData의 메서드입니다. 
+    setUserName: function (firstName, lastName) { 
+        // this는 clientData라는 객체를 지칭하고 있습니다.
+        this.fullName = firstName + " " + lastName;
+         } 
+    } 
+    function getUserInput(firstName, lastName, callback ) {
+         // Do other stuff to validate firstName/lastName here 
+         // Now save the names 
+         callback (firstName, lastName); 
+    } 
+    getUserInput ("Barack", "Obama", clientData.setUserName);
+    console.log (clientData.fullName);
+    // 값에 설정되지 않음 // fullName 프로퍼티가 window object의 인자로 세팅됨 
+    console.log (window.fullName); // Barack Obama
+
+```
+
+
+
+
+
+
+
+
+
+
+
 ## 콜백 함수 사용시 주의점
     - 콜백지옥(Callback Hall)
         - 비동기 처리 로직을 위해 콜백 함수를 연속해서 사용할 때 발생하는 문제

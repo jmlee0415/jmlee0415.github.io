@@ -1,7 +1,7 @@
 :octocat: callback function
 =================================================
 
-#
+
 
 ## 콜백함수란?
     - 나중에 실행될 함수
@@ -28,8 +28,30 @@ $.ajax({
 });
 
 ```
+## ※주의점
+콜백함수는 호출이 아니다. --> 개발자 입장이 아니다 
+사용자 입장에서 button 이용해서 등록된 함수가 사용되도록 하는 것!
+코드상에서 부르거나 하지 
 
-#
+    ``` javascript
+            function first(){
+        // Simulate a code delay
+        setTimeout( function(){
+            console.log(1);
+        }, 500 );
+        }
+        function second(){
+        console.log(2);
+        }
+
+        first();
+        second();
+
+        //2
+        //1
+
+    ```
+
 
 
 

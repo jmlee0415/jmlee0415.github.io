@@ -7,4 +7,7 @@ categories: jekyll update
 *Importance of Basics
 NeuralNetworks and Deep Learning 
 
+
+
+
 ![nerual](https://user-images.githubusercontent.com/61037197/106757406-a62a6300-6673-11eb-9fb3-d140228e6294.png)

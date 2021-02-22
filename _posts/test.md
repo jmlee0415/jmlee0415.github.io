@@ -136,11 +136,31 @@
     3)
     - 
 
+
+## MAP API
+
+#### :fries: Naver Web Dynamic Map 
+<br></br>
+1) 지도 생성 및 띄우기
+2) 지도에 마크 및 InfoWindow 추가
+
+
+#### :ramen: Naver Geocoding
+<br></br>
+1) 음식점 명을 이용하여 음식 유형/카테고리를 불러옴
+
+#### KaKao Web Dynamic Map
+<br></br>
+1) 검색을 통한 음식점 정보 찾기에 활용
+
+
+
+
 ## Reference 
 
 <div>
 
-#### :100: 코로나맵 클론 프로젝트<br></br>
+#### :mask: 코로나맵 클론 프로젝트<br></br>
 https://www.inflearn.com/course/%EC%BD%94%EB%A1%9C%EB%82%98%EB%A7%B5-%EC%A7%80%EB%8F%84%EC%84%9C%EB%B9%84%EC%8A%A4#
 <br></br>
 https://www.inflearn.com/course/%EC%BD%94%EB%A1%9C%EB%82%98%EB%A7%B5-%EC%A7%80%EB%8F%84%EC%84%9C%EB%B9%84%EC%8A%A4
@@ -148,8 +168,8 @@ https://www.inflearn.com/course/%EC%BD%94%EB%A1%9C%EB%82%98%EB%A7%B5-%EC%A7%80%E
  
 ## Appendix
 
-#### :100: 프로젝트 진행 과정 
+#### :bento: 프로젝트 진행 과정 
 https://drive.google.com/drive/folders/1-G8_Bw57G7msK3BAfzhLRIw_ZSRumXYm
 
-#### :100: 프로젝트 관련 참고 내용
+#### :bagel: 프로젝트 관련 참고 내용
 https://kowo1001.github.io/project/springboot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B0%B8%EA%B3%A0%EB%82%B4%EC%9A%A9/

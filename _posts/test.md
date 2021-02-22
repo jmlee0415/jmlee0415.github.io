@@ -1,4 +1,5 @@
-# Project : 구르망(gourmand) #### - 빈틈없이 아주 야무진 사람
+# Project : 구르망(gourmand)
+#### - 빈틈없이 아주 야무진 사람
 <br><br>
 
 ![logocopy](https://user-images.githubusercontent.com/61037197/108632311-8d161480-74b1-11eb-8a4a-f7ac3d26a2af.PNG)

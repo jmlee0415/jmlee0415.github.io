@@ -151,14 +151,14 @@
 위의 파일을 다운받으신 후 서버를 실행할 수 있습니다. 
 <br><br>
 
-### :smile: SpringBoot 실행 <br>
+### :croissant: SpringBoot 실행 <br>
 
 먼저 eclispe의 해당 파일을 열어 import 하신 후, <br>
 파일의 java resources -> src/main/java -> io.gourmand ->Gourmand application을 spring boot app으로 실행시켜 줍니다.<br>
 <br>
 
 
-### :smile: Vue js 실행 <br>
+### :curry: Vue js 실행 <br>
 
 1. 경로 지정 및 환경 설치 
 <br> (개인마다 경로에 차이가 있을 수 있습니다. 해당 프로젝트의 경로를 확인한 후 frontend까지 지정해야합니다.)<br>
@@ -179,7 +179,8 @@ npm run serve
 
  
 <br>
-### :smile: Node express 실행 <br>
+
+### :rice_ball: Node express 실행 <br>
 
 1. node와 npm 버전 확인 
     <br> 
@@ -220,6 +221,8 @@ https://drive.google.com/drive/folders/1-G8_Bw57G7msK3BAfzhLRIw_ZSRumXYm
 
 #### :bagel: 프로젝트 관련 참고 내용 (팀원 장종욱 개인 블로그)
 https://kowo1001.github.io/project/springboot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B0%B8%EA%B3%A0%EB%82%B4%EC%9A%A9/
+
+
 
 
 

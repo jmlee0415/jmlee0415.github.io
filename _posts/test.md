@@ -110,7 +110,7 @@
 <br>
 </br>
 
-![tech](https://user-images.githubusercontent.com/61037197/108650542-27527880-7503-11eb-8877-2eaa3cb4a5a4.jpg)
+![techimage](https://user-images.githubusercontent.com/61037197/108664047-49ed8d00-7515-11eb-88d9-f530edb43261.jpg)
 
 ## Issue
 <div>
@@ -221,10 +221,5 @@ https://drive.google.com/drive/folders/1-G8_Bw57G7msK3BAfzhLRIw_ZSRumXYm
 
 #### :bagel: 프로젝트 관련 참고 내용 (팀원 장종욱 개인 블로그)
 https://kowo1001.github.io/project/springboot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B0%B8%EA%B3%A0%EB%82%B4%EC%9A%A9/
-
-
-
-
-
 
 

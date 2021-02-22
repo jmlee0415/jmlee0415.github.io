@@ -22,33 +22,27 @@
 ### topic <br>
 
 <div>
-<img width="800" src=https://user-images.githubusercontent.com/73386460/101110209-dcb81300-361b-11eb-8e5a-75cf0469f02a.jpg><br>
-   <a href="http://dongascience.donga.com/news.php?idx=41968"><center> 
 
+![graph1](https://user-images.githubusercontent.com/61037197/108643287-52ca6880-74ed-11eb-8310-9532265d8f25.PNG)
 #### 주제선정이유1 <br>
-:world_map: 윤혜가 내일!
+:world_map: 맛집에 대한 수요는 갈수록 증가하고 있지만
 <p><p></p>
-   
 
+![graph2](https://user-images.githubusercontent.com/61037197/108643291-552cc280-74ed-11eb-8621-f341e45f8125.PNG)
 
 #### 주제선정이유2<br>
-:earth_africa: 윤혜가 내일!
+:earth_africa: 맛집 지도에 대한 검색 수요는 떨어지고 있다. 
 <p></p>
 
-
-
-
+출처:네이버 데이터랩 (https://datalab.naver.com/)
 
 ## STRUCTURE 
 
 
 <div>
+
 ![erd](https://user-images.githubusercontent.com/61037197/108632719-bdf74900-74b3-11eb-848a-3d3f3e18b5ef.PNG)
-
-
-
-   
-
+  
 ## MODELING    
 
 ### 메뉴트리
@@ -102,5 +96,5 @@
 2) 
 - 
 - 
-3) SEQUENCE 기능의 활용
+3)
 - 

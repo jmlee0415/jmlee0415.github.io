@@ -31,13 +31,6 @@
 대충 때우는 한 끼가 아니라
 자기 입맛에 딱 맞는 만족스러운 식사로 더 행복해졌으면 좋겠습니다.
 
-## Introduction -- 삭제 고려중 <br><br>
-<b>"구르망"</b>는 <br> 
-:pretzel: 맛집 검색 
-:fries: 나만의 맛집 리스트  <br>
-:taco: 나만의 맛집 지도  <br>
-:bagel: 추가적으로 적을 부분  <br>
-:pizza: 추가적으로 적을 부분 <br>
 
 <p><p>
    
@@ -141,7 +134,7 @@
 
 #### :fries: Naver Web Dynamic Map 
 1) 지도 생성 및 띄우기
-2) 지도에 마크 및 InfoWindow 추가
+2) 지도에 마크 생성, 삭제 및 InfoWindow 추가
 
 
 #### :ramen: Naver Geocoding
@@ -155,12 +148,6 @@
 
 ## Reference 
 
-<div>
-
-#### :mask: 코로나맵 클론 프로젝트
-https://www.inflearn.com/course/%EC%BD%94%EB%A1%9C%EB%82%98%EB%A7%B5-%EC%A7%80%EB%8F%84%EC%84%9C%EB%B9%84%EC%8A%A4#
-<br></br>
-https://www.inflearn.com/course/%EC%BD%94%EB%A1%9C%EB%82%98%EB%A7%B5-%EC%A7%80%EB%8F%84%EC%84%9C%EB%B9%84%EC%8A%A4
 <br></br>
  
 ## Appendix
@@ -168,7 +155,8 @@ https://www.inflearn.com/course/%EC%BD%94%EB%A1%9C%EB%82%98%EB%A7%B5-%EC%A7%80%E
 #### :bento: 프로젝트 진행 과정 
 https://drive.google.com/drive/folders/1-G8_Bw57G7msK3BAfzhLRIw_ZSRumXYm
 
-#### :bagel: 프로젝트 관련 참고 내용
+#### :bagel: 프로젝트 관련 참고 내용 (팀원 장종욱 개인 블로그)
 https://kowo1001.github.io/project/springboot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B0%B8%EA%B3%A0%EB%82%B4%EC%9A%A9/
+
 
 

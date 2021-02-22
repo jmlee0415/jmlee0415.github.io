@@ -212,6 +212,69 @@ npm run serve
 <br>
 
 
+## Controller - APIs
+<details>
+<summary>login controller</summary>
+signin         //로그인<br>
+logout         //로그아웃
+</details>
+
+<details>
+<summary>res controller</summary>
+getResInfo      // 가게 정보를 담은 페이지
+getResThumbnail      // Thumbnail 정보를 담은 페이지
+getAllResThumbnail   // 거리별(default) 모든 Thumbnail
+getResThumbnailByCategory   // 카테고리별
+getResThumbnailByAvgStar   // 별점순   
+getResThumbnailByResName   // 이름 검색
+getResThumbnailByLocation   // 지역 검색
+getUserByRes      // 해당 가게를 리스트에 넣은 유저 반환
+getResOfList      // 해당 유저의 모든 리스트 맵으로 반환
+insetResToUser      // 가게 정보 저장
+createRes      // reslist 추가
+updateRes      // 가게 정보 수정
+deleteRes      // 가게 정보 삭제
+insetResToUser      // 가게 이미지만 추가   
+insertImgOfRes      // 가게 정보 수정
+</details>
+
+
+   
+<details>
+<summary>rev controller</summary>
+getReviewList      // 모든 리뷰 정보 조회
+getReview      // 하나의 리뷰 정보 조회
+createRev      // 리뷰 정보 저장
+updateRev      // 리뷰 수정
+deleteReview      // 리뷰 삭제
+deleteRevImg      // 리뷰 이미지 삭제
+returnAllRevOfRes      // 가게에 대한 리뷰 Thumbnail
+returnResStandard      // 가게에 대한 standard 정보
+returnAllOrderByTime   // 시간순으로 12개의 revThumbnail
+returnAllRevNumOfUser   // 회원의 모든리뷰 수
+</details>
+
+<details>
+<summary>user controller</summary>
+createUser      // 회원 가입 
+updateUser      // 유저 정보 수정
+deleteUserStandardUser   // 회원 기준 삭제
+deleteUser      // 회원 삭제
+deleteUserImg      // 회원 이미지 삭제
+createUserStandard   // 회원 기준 저장
+returnUserResList      // 회원의 list 이름들 반환 (list에 저장용)
+getUserIdOfFamousUser   // 인기 많은 유저의 아이디와 닉네임
+getResOfList      // 내 리스트 불러오기
+getUserCountByList   // 내가 작성한 리스트 카운트 불러오는거
+getUserInfo      // 내 전체 정보 가져오기
+getResOfList      // 회원 리스트 불러오기
+getUserCountByList   // 리스트 카운트 불러오는거
+getAllOrderByUserNumNStar   // 유저 당 리뷰를 별점순으로 반환("/res/user/review/writeDate")나의 페이지
+getAllOrderByUserNumNDate// 유저 당 리뷰를 시간순으로 반환("/res/user/review/Star")나의 페이지
+getAllOrderByUserNumNStar   // 유저 당 리뷰를 별점순으로 반환("/res/user/review/writeDate/{id}")타인의 페이지
+getAllOrderByUserNumNDate// 유저 당 리뷰를 시간순으로 반환("/res/user/review/Star/{id}")타인의 페이지
+</details>
+
 
 ## Reference 
 
@@ -224,6 +287,9 @@ https://drive.google.com/drive/folders/1-G8_Bw57G7msK3BAfzhLRIw_ZSRumXYm
 
 #### :bagel: 프로젝트 관련 참고 내용 (팀원 장종욱 개인 블로그)
 https://kowo1001.github.io/project/springboot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B0%B8%EA%B3%A0%EB%82%B4%EC%9A%A9/
+
+
+
 
 
 

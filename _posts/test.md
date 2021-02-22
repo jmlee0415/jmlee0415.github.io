@@ -128,7 +128,7 @@
     - 
 
 2. 
-```
+
     1) 
     2) 
     - 
@@ -137,11 +137,19 @@
     - 
 
 ## Reference 
+
 <div>
+
 #### :100: 코로나맵 클론 프로젝트<br></br>
 https://www.inflearn.com/course/%EC%BD%94%EB%A1%9C%EB%82%98%EB%A7%B5-%EC%A7%80%EB%8F%84%EC%84%9C%EB%B9%84%EC%8A%A4#
 <br></br>
 https://www.inflearn.com/course/%EC%BD%94%EB%A1%9C%EB%82%98%EB%A7%B5-%EC%A7%80%EB%8F%84%EC%84%9C%EB%B9%84%EC%8A%A4
 <br></br>
+ 
+## Appendix
 
-#### :100: 
+#### :100: 프로젝트 진행 과정 
+https://drive.google.com/drive/folders/1-G8_Bw57G7msK3BAfzhLRIw_ZSRumXYm
+
+#### :100: 프로젝트 관련 참고 내용
+https://kowo1001.github.io/project/springboot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B0%B8%EA%B3%A0%EB%82%B4%EC%9A%A9/

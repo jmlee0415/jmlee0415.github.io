@@ -1,5 +1,4 @@
-# Project : 구르망(gourmand)
-## - 빈틈없이 아주 야무진 사람
+# Project : 구르망(gourmand) #### - 빈틈없이 아주 야무진 사람
 <br><br>
 
 ![logocopy](https://user-images.githubusercontent.com/61037197/108632311-8d161480-74b1-11eb-8a4a-f7ac3d26a2af.PNG)
@@ -32,8 +31,9 @@
 자기 입맛에 딱 맞는 만족스러운 식사로 더 행복해졌으면 좋겠습니다.
 
 
+
 <p><p>
-   
+<br></br>   
 ## Why This Topic is Important<br><br>
 
 ### topic : 나만의 맛집 지도 <br>
@@ -133,15 +133,15 @@
 ## MAP API
 
 #### :fries: Naver Web Dynamic Map 
-1) 지도 생성 및 띄우기
-2) 지도에 마크 생성, 삭제 및 InfoWindow 추가
+    - 1) 지도 생성 및 띄우기
+    - 2) 지도에 마크 생성, 삭제 및 InfoWindow 추가
 
 
 #### :ramen: Naver Geocoding
-1) 음식점 명을 이용하여 음식 유형/카테고리를 불러옴
+    - 1) 음식점 명을 이용하여 음식 유형/카테고리를 불러옴
 
 #### :sushi: KaKao Web Dynamic Map
-1) 검색을 통한 음식점 정보 찾기에 활용
+    - 1) 검색을 통한 음식점 정보 찾기에 활용
 
 
 

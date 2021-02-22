@@ -1,4 +1,4 @@
-# Project : 구르망(gourmand)
+# Project : 구르망(gourmand) 
 #### - 빈틈없이 아주 야무진 사람
 <br><br>
 
@@ -146,6 +146,68 @@
 
 
 
+## Setting Up <br> 
+
+위의 파일을 다운받으신 후 서버를 실행할 수 있습니다. 
+<br><br>
+
+### :smile: SpringBoot 실행 <br>
+
+먼저 eclispe의 해당 파일을 열어 import 하신 후, <br>
+파일의 java resources -> src/main/java -> io.gourmand ->Gourmand application을 spring boot app으로 실행시켜 줍니다.<br>
+<br>
+
+
+### :smile: Vue js 실행 <br>
+
+1. 경로 지정 및 환경 설치 
+<br> (개인마다 경로에 차이가 있을 수 있습니다. 해당 프로젝트의 경로를 확인한 후 frontend까지 지정해야합니다.)<br>
+    <br> 
+~~~cmd
+ cd C:\Users\Playdata\Documents\GitHub\Gourmand_SpringBoot_Project\src\frontend
+ npm install
+ npm install –save chart.js vue-star-rating npm install -s cookie npm install cookie-parser
+~~~
+
+<br>
+
+2. 설치 완료시 서버 실행 <br>
+~~~cmd
+npm run serve
+~~~
+<br>
+
+ 
+<br>
+### :smile: Node express 실행 <br>
+
+1. node와 npm 버전 확인 
+    <br> 
+~~~cmd
+ node -version 
+ npm -version
+~~~
+
+<br>
+2. 환경 설치 
+    <br> 
+~~~cmd
+ npm install -g nodemon
+ npm install -g express
+ npm install -g express-generator 
+ npm install cores –save
+ npm install express-session –save
+ npm install axios –save 
+~~~
+<br>
+3. 서버 실행
+<br> 
+~~~cmd
+npm start
+~~~
+<br>
+
+
 
 ## Reference 
 
@@ -158,6 +220,8 @@ https://drive.google.com/drive/folders/1-G8_Bw57G7msK3BAfzhLRIw_ZSRumXYm
 
 #### :bagel: 프로젝트 관련 참고 내용 (팀원 장종욱 개인 블로그)
 https://kowo1001.github.io/project/springboot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B0%B8%EA%B3%A0%EB%82%B4%EC%9A%A9/
+
+
 
 
 

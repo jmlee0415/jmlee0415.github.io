@@ -18,7 +18,7 @@
 
 <p><p>
    
-## Why did we choose this topic?<br><br>
+## Why This Topic is Important?<br><br>
 
 ### topic : 나만의 맛집 지도 <br>
 

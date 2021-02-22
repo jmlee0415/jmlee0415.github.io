@@ -44,7 +44,8 @@
 
 <div>
 
-![erd](https://user-images.githubusercontent.com/61037197/108632719-bdf74900-74b3-11eb-848a-3d3f3e18b5ef.PNG)
+![graph1](https://user-images.githubusercontent.com/61037197/108644536-bdca6e00-74f2-11eb-919b-8b44e32ae811.png)
+
   
 ## MODELING    
 

@@ -8,7 +8,8 @@
 ## Introduction <br><br>
 
 
-<b>"구르망"</b>는 <br>
+<b>"구르망"</b>는 <br> 
+윤혜가 감성적으로,.ㅋㅋ 다시 수정
 :pretzel: 맛집 검색 
 :fries: 나만의 맛집 리스트  <br>
 :taco: 나만의 맛집 지도  <br>

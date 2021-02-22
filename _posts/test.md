@@ -147,7 +147,7 @@
 #### :ramen: Naver Geocoding
 1) 음식점 명을 이용하여 음식 유형/카테고리를 불러옴
 
-#### KaKao Web Dynamic Map
+#### :sushi: KaKao Web Dynamic Map
 1) 검색을 통한 음식점 정보 찾기에 활용
 
 
@@ -170,3 +170,5 @@ https://drive.google.com/drive/folders/1-G8_Bw57G7msK3BAfzhLRIw_ZSRumXYm
 
 #### :bagel: 프로젝트 관련 참고 내용
 https://kowo1001.github.io/project/springboot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B0%B8%EA%B3%A0%EB%82%B4%EC%9A%A9/
+
+

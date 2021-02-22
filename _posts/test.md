@@ -61,25 +61,25 @@
 
              <br>
 
-### 2. 관리자 측면
+### 2. 관리자 측면 -- 지우기?
 <div>   
    </br</p>
    
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;	:ramen: 1) 모든 다이어리 정보 CRUD  <br>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;	:ramen: 1)   <br>
 
 
 </br></p>
 
 ## Technologies Used
 
-+ USER INFORMAITON 
++ 이따 틀 받아와서 붙이기. 
 
 
 
 
 
 ## Data Flow
-
++ ...
 
 ## Issue
 <div>

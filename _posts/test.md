@@ -1,5 +1,7 @@
 # Project : 구르망(gourmand)
+## - 빈틈없이 아주 야무진 사람
 <br><br>
+
 ![logocopy](https://user-images.githubusercontent.com/61037197/108632311-8d161480-74b1-11eb-8a4a-f7ac3d26a2af.PNG)
 
 
@@ -47,15 +49,13 @@
 
 ![graph1](https://user-images.githubusercontent.com/61037197/108643287-52ca6880-74ed-11eb-8310-9532265d8f25.PNG)
 #### 주제선정이유1 <br>
-:world_map: 맛집에 대한 수요는 갈수록 증가하고 있다!
-(+ 윤혜)
+:taco: 맛집에 대한 수요는 갈수록 증가하고 있다!
 <p><p></p>
 
 ![graph2](https://user-images.githubusercontent.com/61037197/108643291-552cc280-74ed-11eb-8621-f341e45f8125.PNG)
 
 #### 주제선정이유2<br>
-:earth_africa: 반면, 맛집 지도에 대한 검색 수요는 떨어지고 있다. 
-(+윤혜)
+:pizza: 반면, 맛집 지도에 대한 검색 수요는 떨어지고 있다. 
 <p></p>
 <br>
 출처:네이버 데이터랩 (https://datalab.naver.com/)
@@ -110,9 +110,6 @@
     - 기준별 별점 점수를 기반으로 총점 등록 가능
 
 
-
-
-
 </br></p>
 
 ## Technologies Used
@@ -121,12 +118,9 @@
 
 ![tech](https://user-images.githubusercontent.com/61037197/108650542-27527880-7503-11eb-8877-2eaa3cb4a5a4.jpg)
 
-
-
-
 ## Issue
 <div>
-1. 
+1. 맛집페이지
    
    1) 
     - 
@@ -135,9 +129,19 @@
 
 2. 
 ```
-1) 
-2) 
-- 
-- 
-3)
-- 
+    1) 
+    2) 
+    - 
+    - 
+    3)
+    - 
+
+## Reference 
+<div>
+#### :100: 코로나맵 클론 프로젝트<br></br>
+https://www.inflearn.com/course/%EC%BD%94%EB%A1%9C%EB%82%98%EB%A7%B5-%EC%A7%80%EB%8F%84%EC%84%9C%EB%B9%84%EC%8A%A4#
+<br></br>
+https://www.inflearn.com/course/%EC%BD%94%EB%A1%9C%EB%82%98%EB%A7%B5-%EC%A7%80%EB%8F%84%EC%84%9C%EB%B9%84%EC%8A%A4
+<br></br>
+
+#### :100: 

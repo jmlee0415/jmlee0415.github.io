@@ -191,7 +191,7 @@ npm run serve
 
 <br>
 2. 환경 설치 
-    <br> 
+
 ~~~cmd
  npm install -g nodemon
  npm install -g express
@@ -204,7 +204,6 @@ npm run serve
 <br>
 
 3. 서버 실행
-<br> 
 
 ~~~cmd
  npm start
@@ -225,6 +224,7 @@ https://drive.google.com/drive/folders/1-G8_Bw57G7msK3BAfzhLRIw_ZSRumXYm
 
 #### :bagel: 프로젝트 관련 참고 내용 (팀원 장종욱 개인 블로그)
 https://kowo1001.github.io/project/springboot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B0%B8%EA%B3%A0%EB%82%B4%EC%9A%A9/
+
 
 
 

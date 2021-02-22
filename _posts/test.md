@@ -71,8 +71,10 @@
 
 ### 메뉴트리
 <div> 
-다시 저장해서 해야함. 
-<img width="1000" src="https://github.com/Heart-and-heart/Heart-and-Heart/blob/mergetest/%EB%A9%94%EB%89%B4%ED%8A%B8%EB%A6%AC.png?raw=true">
+
+![tree](https://user-images.githubusercontent.com/61037197/108651210-a300f500-7504-11eb-8c7e-5e32c1f15f5a.jpg)
+
+
 
 ## Service 
 <div>   
@@ -114,15 +116,13 @@
 </br></p>
 
 ## Technologies Used
+<br>
+</br>
 
-+ 이따 틀 받아와서 붙이기. 
+![tech](https://user-images.githubusercontent.com/61037197/108650542-27527880-7503-11eb-8877-2eaa3cb4a5a4.jpg)
 
 
 
-
-
-## Data Flow
-+ ...
 
 ## Issue
 <div>

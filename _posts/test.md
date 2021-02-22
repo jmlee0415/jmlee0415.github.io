@@ -6,8 +6,6 @@
 윤혜가 감성적으로... 내일 쓸 것. 
 
 ## Introduction <br><br>
-
-
 <b>"구르망"</b>는 <br> 
 윤혜가 감성적으로,.ㅋㅋ 다시 수정
 :pretzel: 맛집 검색 
@@ -44,8 +42,7 @@
 
 <div>
 
-![graph1](https://user-images.githubusercontent.com/61037197/108644536-bdca6e00-74f2-11eb-919b-8b44e32ae811.png)
-
+![erd](https://user-images.githubusercontent.com/61037197/108632719-bdf74900-74b3-11eb-848a-3d3f3e18b5ef.PNG)
   
 ## MODELING    
 
@@ -59,10 +56,14 @@
 
 ### 1. USER 측면
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;:key: 로그인 <br>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;	:eye_speech_bubble: 맛집검색 <br>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;	:eye_speech_bubble: 회원가입
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;:rice_ball: 음식점 검색 및 정보 보기 <br>
++ 음식 유형별 음식점 
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;:lobster: 추천 음식점 보기 <br>
++ 유명인 추천 맛집 보기 
+<br>
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;:rice_ball: 유명인 추천 맛집 리스트 보기 <br>
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;:lobster: 나만의 맛집 지도 만들기 <br>
-
              <br>
 
 ### 2. 관리자 측면 -- 지우기?

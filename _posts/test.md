@@ -34,7 +34,7 @@
 #### 주제선정이유2<br>
 :earth_africa: 맛집 지도에 대한 검색 수요는 떨어지고 있다. 
 <p></p>
-
+<br>
 출처:네이버 데이터랩 (https://datalab.naver.com/)
 
 ## STRUCTURE 

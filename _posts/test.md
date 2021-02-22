@@ -20,7 +20,7 @@
    
 ## Why did we chose this topic?<br><br>
 
-### topic <br>
+### topic : 나만의 맛집 지도 <br>
 
 <div>
 

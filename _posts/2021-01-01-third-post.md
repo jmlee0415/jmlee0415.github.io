@@ -44,6 +44,9 @@ class Solution
             break;
     
    
+   
+   
+   
         }else{
             answer++;
        //     A *= 0.5;

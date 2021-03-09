@@ -21,7 +21,6 @@ toc_label : 목차
 
 
 
-[reference]
-
+<reference>
 https://www.youtube.com/watch?v=PC3ypt_VGWI&t=610s
 

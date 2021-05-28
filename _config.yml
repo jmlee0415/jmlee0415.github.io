@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "LEE, JEONGMIN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "All is well:)"
+  bio              : "This is my github website to practice algorithms in python "
   location         : "Republic of Korea(ROK)"
   email            :
   links:

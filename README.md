@@ -1,1 +1,1 @@
-My Github Blog To Practice Python Algorithms and SQL Queries!
+https://jmlee0415.github.io/

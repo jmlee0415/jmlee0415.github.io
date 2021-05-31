@@ -3,7 +3,8 @@ title: "About Me"
 permalink: /about/
 layout: single
 ---
-Hi, this is Jeongmin Lee. 
-I am currently learning data analysis.
+Hi, this is Jeongmin Lee who is an aspiring data analyst. 
 
-안녕하세요. 데이터 분석을 공부하고 있는 이정민입니다. 
+For further information, click here : https://github.com/jmlee0415 & https://velog.io/@jmlee04150
+
+

@@ -1,1 +1,1 @@
-My Github Blog To Practice Python Algorithms!
+My Github Blog To Practice Python Algorithms and SQL Queries!

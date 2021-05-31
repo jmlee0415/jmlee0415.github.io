@@ -1,2 +1,2 @@
 layout: category
-title: Algorithm
+title: Sql

@@ -1,9 +1,14 @@
 ---
-title: "Programmers"
-date: 2020-12-20 08:26:28 -0400
-categories: jekyll update
+title: "[JAVA] programmers 알고리즘 공부"
+date: 2021-03-01T21:31:46+09:00
+draft: false
+description: "[JAVA] :  "
+tags: [JAVA]
+categories: [JAVA]
+toc : true
+toc_sticky : true
+toc_label : 목차
 ---
-
 
 
 

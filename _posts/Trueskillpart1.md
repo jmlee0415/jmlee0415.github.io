@@ -40,12 +40,13 @@ Tureskill systmem의 이해를 돕기 위해 우선 ELO 랭킹 시스템을 먼�
 (출처 : https://www.youtube.com/watch?v=VnOVLBbYlU0&t=774s)
 * 가정 : 점수 차이가 400이 날 때, 실력 차이는 10배</br>
   -> A가 B를 이길 확률을 로그를 씌운 후, 400을 곱하고 기준 점수를 더하여 계산하는 것 </br>
-  -> 예를 들어 기준 점수가 1000점이라 하자. Elo 점수는 1000 + 400log S 이다. 이 때, 실력 지수 S = 400 * logS
+  -> 예를 들어, 기준 점수가 1000점이라 하자. Elo 점수는 1000 + 400log S 이다. 이 때, 실력 지수 S = 400 * logS
 * K-factor은 신규 유저와 숙련된 유저에 따라 다르게 적용
 * 실제 실력 측정을 위해 오랜 시간 필요
 
 
 ### :eye_speech_bubble: Trueskill Ranking System
+
 
 
 

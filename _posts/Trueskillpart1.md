@@ -12,13 +12,13 @@ toc_label : 목차
 
 
 
-### :octocat: Trueskill 이란..?
+## :octocat: Trueskill 이란..?
 
 Trueskill system은 간단히 말해 마이크로소프트가 출시한 '멀티플레이어 랭킹 시스템'이다! </br>
 Tureskill systmem의 이해를 돕기 위해 우선 ELO 랭킹 시스템을 먼저 알아볼 필요가 있다.  </br>
 
 
-#### :eyes: ELO Ranking System
+### :eyes: ELO Ranking System
 
 * Trueskill system 이전에 체스 게임에 사용하기 위해 고안된 시스템</br>
 * 각 player들의 실력이 정규 분포를 따른다고 가정하여 플레이더들의 실력 수준 확률 범위를 단순화 시킨 시스템 => 'pi ~ N (pi ; si ; β^2)'</br>
@@ -43,7 +43,9 @@ Tureskill systmem의 이해를 돕기 위해 우선 ELO 랭킹 시스템을 먼�
 * 실제 실력 측정을 위해 오랜 시간 필요
 
 
-#### :eye_speech_bubble: Trueskill Ranking System
+### :eye_speech_bubble: Trueskill Ranking System
+
+
 
 
 

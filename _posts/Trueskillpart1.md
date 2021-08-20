@@ -10,39 +10,43 @@ toc_sticky : true
 toc_label : 목차
 ---
 
-:octocat:
+
 
 ### :octocat: Trueskill 이란..?
 
-Trueskill system은 간단히 말해 마이크로소프트가 출시한 '멀티플레이어 랭킹 시스템'이다! 
-Tureskill systmem의 이해를 돕기 위해 우선 ELO 랭킹 시스템을 먼저 알아볼 필요가 있다. 
+Trueskill system은 간단히 말해 마이크로소프트가 출시한 '멀티플레이어 랭킹 시스템'이다! </br>
+Tureskill systmem의 이해를 돕기 위해 우선 ELO 랭킹 시스템을 먼저 알아볼 필요가 있다.  </br>
 
 
 #### :eyes: ELO Ranking System
 
-ELO 랭킹 시스템은 Trueskill system 이전에 먼저 고안되었다. 
-각 player들의 실력이 정규 분포를 따른다고 가정하여 플레이더들의 실력 수준 확률 범위를 단순화 시킨 시스템이다. => 'pi ~ N (pi ; si ; β^2)'
-이는 체스 게임을 염두하여 고안된 시스템이기 때문이다. 
-시스템의 기본 원리는 다음과 같다. 
-player 1 이 이기면 y값은 1이 추가된다고 할 때, player 2가 이기면 y 값은 마이너스 1이 적용된다. 만약 무승부일경우, y는 0이다. 
-즉, s1 ← s1 + yΔ , s2 ← s2 - yΔ 시스템이다. 
+* Trueskill system 이전에 체스 게임에 사용하기 위해 고안된 시스템</br>
+* 각 player들의 실력이 정규 분포를 따른다고 가정하여 플레이더들의 실력 수준 확률 범위를 단순화 시킨 시스템 => 'pi ~ N (pi ; si ; β^2)'</br>
+* 원리 
+ 1. player 1 이 이기면 y값은 1이 추가된다고 할 때, player 2가 이기면 y 값은 마이너스 1이 적용. 만약 무승부일경우, y는 0. </br>
+ 2. 즉, s1 ← s1 + yΔ ,  s2 ← s2 - yΔ. 
+  
+* 공식 </br>
 
-숫자를 이용하여 이해해보자면, 다음과 같이 예시를 들 수 있다. 
+<!-- 숫자를 이용하여 이해해보자면, 다음과 같이 예시를 들 수 있다. 
 음, 간단히 말하자면 A:B 가 3:2일 때, A가 B를 이길 확률을 로그를 사용한 후 400을 곱하고 기준 점수를 더하여 계산하는 것이 Elo 점수이다. 
 예를 들어, 기준 점수가 1000 점 일 때, 실력지수를 구하기 위한 Elo 점수 = 1000 + 400 log S , where 실력 지수 S = 400*logS.
 이렇게 하는 이유 는 차이가 10배일 때, 400 점 차이나게 만든다  (최근에 사용되는 경우는 가우시안 대신 로그 distribution 을 사용한다.) 
- ELO System에는 "점수 차이가 400이 날 때, 실력 차이는 10배가 난다"는 가정이 삽입되어 있다.
-다음은 ELO 랭킹 시스템에서 이용한 공식이다. 
+ ELO System에는 "점수 차이가 400이 날 때, 실력 차이는 10배가 난다"는 가정이 삽입되어 있다. -->
 
-```
-RatingDiff = (Score - Expected) * K-factor, 
-where
-Score is 0 = loss, 0.5 = draw, 1 = win 
-Expected is 0 to 1, the porbability of winning
-K-factor is a constant for maximum change (update "speed")
-```
+![image](https://user-images.githubusercontent.com/61037197/130185178-9e656539-e5bf-4b6e-8549-927f974e30a0.png)
 
-이 때, K-factor은 신규 유저와 숙련된 유저에 따라 다르게 적용된다. 
+![image](https://user-images.githubusercontent.com/61037197/130185437-abdcf55f-5b4c-4704-bd24-f75fc08537b6.png)
+(출처 : https://www.youtube.com/watch?v=VnOVLBbYlU0&t=774s)
+* 가정 : 점수 차이가 400이 날 때, 실력 차이는 10배
+* K-factor은 신규 유저와 숙련된 유저에 따라 다르게 적용
+* 실제 실력 측정을 위해 오랜 시간 필요
+
+
+#### :eye_speech_bubble: Trueskill Ranking System
+
+
+
 
 
 

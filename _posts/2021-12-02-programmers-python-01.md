@@ -1,5 +1,5 @@
 ---
-title: "[PROGRAMMERS] 크레인 인형뽑기 게임"
+title: "[PROGRAMMERS] 숫자 문자열과 영단어"
 date: 2021-12-02T21:31:46+09:00
 draft: false
 description: "[PYTHON] : Programmers LV#01 숫자 문자열과 영단어"

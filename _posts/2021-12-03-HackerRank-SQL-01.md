@@ -2,7 +2,7 @@
 title: "[HackerRank] Binary Tree Nodes & New Companies"
 date: 2021-12-02T21:31:46+09:00
 draft: false
-description: "[MySQL] : HackerRank LV - Intermediate"
+description: "[MySQL] : HackerRank LV - Medium"
 tags: [HackerRank]
 categories: [MySQL]
 toc : true

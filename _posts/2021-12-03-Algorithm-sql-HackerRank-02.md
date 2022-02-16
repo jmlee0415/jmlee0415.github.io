@@ -3,8 +3,8 @@ title: "[HackerRank] Binary Tree Nodes & New Companies"
 date: 2021-12-02T21:31:46+09:00
 draft: false
 description: "[MySQL] : HackerRank LV - Medium"
-tags: [HackerRank]
-categories: [MySQL]
+tags: [SQL]
+categories: [SQL]
 toc : true
 toc_sticky : true
 toc_label : 목차

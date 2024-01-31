@@ -10,6 +10,8 @@ toc_sticky : true
 toc_label : 목차
 ---
 
+
+
 ## :octocat: CH6. 조직 운영을 위한 지표 
 
 조직 운영을 위한 지표 </br>

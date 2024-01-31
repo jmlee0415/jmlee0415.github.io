@@ -4,7 +4,7 @@ date: 2024-01-29T21:31:46+09:00
 draft: false
 description: "A/B Test"
 tags: [Book]
-categories: [Data Analysis]
+categories: [DataAnalysis]
 toc : true
 toc_sticky : true
 toc_label : 목차
